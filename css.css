@@ -1,0 +1,42 @@
+nav{
+    display: flex;
+    background-color: green;
+    color: white;
+    height : 9vh;
+    width :auto ;
+    margin-top: 0px;
+  }
+  nav ul{
+    display:flex;
+    list-style: none;
+  }
+  
+  .head{
+    font-family:cursive;
+  }
+  
+  .vid{
+    width: 100%;
+    height: auto;
+    position:fixed;
+    z-index: -1;
+    opacity: 0.9;
+  }
+  img{
+    width: 200px;
+    height: 75px;
+    border-radius: 5%;
+    margin-top: 5px;
+    margin-left:0;
+  
+  }
+  .container-fluid{
+    background-color:papayawhip;
+    border-color:green;
+    padding-left:40px;
+    align-items: right;
+  }
+  .navbar bg-body-tertiary{
+    background-color: green;
+    padding-left: 40px;
+  }
